@@ -1,0 +1,28 @@
+.grey {
+  background-color: gray;
+  height: 64px;
+  text-align: right;
+  color: white;
+  padding-top: 0.5rem;
+  font-weight: 480;
+  font-size: xx-large;
+}
+
+.light {
+  background-color: #ebe7e7;
+  font-weight: 600;
+  font-size: xx-large;
+  text-align: center;
+  border-right: 1px solid rgba(49, 48, 48, 0.39);
+  border-bottom: 1px solid rgba(49, 48, 48, 0.39);
+}
+
+.orange {
+  border-bottom: 1px solid rgba(49, 48, 48, 0.39);
+  font-weight: 480;
+  font-weight: 600;
+  font-size: xx-large;
+  text-align: center;
+  background-color: orange;
+  color: white;
+}
